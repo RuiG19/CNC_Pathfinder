@@ -1,0 +1,105 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CNC_Pathfinder.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CNC_Axes_Step_Dim_X" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">880000</Value>
+    </Setting>
+    <Setting Name="CNC_Axes_Step_Dim_Y" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">660000</Value>
+    </Setting>
+    <Setting Name="CNC_Axes_Step_Dim_Z" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">220000</Value>
+    </Setting>
+    <Setting Name="CNC_Axes_Units_Dim_X" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">400</Value>
+    </Setting>
+    <Setting Name="CNC_Axes_Units_Dim_Y" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+    <Setting Name="CNC_Axes_Units_Dim_Z" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="CNC_Step_Resolution_X" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2200</Value>
+    </Setting>
+    <Setting Name="CNC_Step_Resolution_Y" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2200</Value>
+    </Setting>
+    <Setting Name="CNC_Step_Resolution_Z" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2200</Value>
+    </Setting>
+    <Setting Name="CNC_Feedrate_Min" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="CNC_Feedrate_Max" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1300</Value>
+    </Setting>
+    <Setting Name="CNC_Laser_MaxPower" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2500</Value>
+    </Setting>
+    <Setting Name="CNC_Units" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="CNC_InitialHomePosition" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="CNC_FeedrateMode" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="CNC_Multiblocks_Size" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">150</Value>
+    </Setting>
+    <Setting Name="COM_Baudrate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="COM_Lineterminator" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="COM_WaitForOK" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TP_ToolType" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="TP_Laser_Power_Cut" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="TP_Laser_Power_Idle" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="TP_Drill_Speed" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="TP_Drill_Down_UnitsHeight_Z" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">-5</Value>
+    </Setting>
+    <Setting Name="TP_Drill_Up_UnitsHeight_Z" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="TP_RapidFeedrate" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1300</Value>
+    </Setting>
+    <Setting Name="TP_LinearFeedrate" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="TP_ToolDiameter_Precision" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.15</Value>
+    </Setting>
+    <Setting Name="TP_ToolDiameter_Roughing" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.15</Value>
+    </Setting>
+    <Setting Name="TP_Laser_Height_Precision" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="TP_Laser_Height_Roughing" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="TP_Laser_Power_Contour" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1400</Value>
+    </Setting>
+    <Setting Name="TP_Contour_Feedrate" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
